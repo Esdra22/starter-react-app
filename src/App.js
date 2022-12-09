@@ -101,7 +101,9 @@ export default function App() {
     alert(res.data.title)
     AXIOS()
     setValue('')
+
     setInput('')
+    
     setText('')
   }
 
